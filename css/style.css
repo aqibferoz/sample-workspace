@@ -1,0 +1,26 @@
+.img{
+    height: 20% !important;
+    width: 20% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: block;
+    border-radius: 5% !important;
+}
+
+.name{
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center;
+}
+.email{
+    color: aqua !important;
+    text-align: center;
+}
+.intro{
+    text-align: center !important;
+}
+p{
+    font-size: 25px !important;
+    padding-left: 45px !important;
+    padding-right: 45px !important;
+}
